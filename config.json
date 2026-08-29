@@ -1,0 +1,14 @@
+{
+  "max_observed_years": 13,
+  "split_seed": "aarc-seh-63",
+  "rho_min": 0.0,
+  "rho_max": 0.98,
+  "rho_grid_points": 61,
+  "ridge_t5": 0.0001,
+  "ridge_grid": [0.000001, 0.00001, 0.0001, 0.001, 0.01, 0.1, 1.0, 10.0, 100.0],  "practical_nll_tolerance": 0.01,
+  "n_parameter_bootstrap": 200,
+  "n_nll_gap_bootstrap": 10000,
+  "n_simulations": 10000,
+  "minimum_sensitivity_cohort_people": 50,
+  "random_seed": 63
+}
